@@ -1,0 +1,7 @@
+﻿  Lab1_source.cpp
+E:\vmware\Sharefile\Labs-Web-Tech\WanwanWork\lab1\Lab1_Project1\Lab1_source.cpp(307,19): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\vmware\Sharefile\Labs-Web-Tech\WanwanWork\lab1\Lab1_Project1\Lab1_source.cpp(309,17): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\vmware\Sharefile\Labs-Web-Tech\WanwanWork\lab1\Lab1_Project1\Lab1_source.cpp(327,7): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\vmware\Sharefile\Labs-Web-Tech\WanwanWork\lab1\Lab1_Project1\Lab1_source.cpp(384,54): warning C4474: fprintf: 格式字符串中传递的参数太多
+E:\vmware\Sharefile\Labs-Web-Tech\WanwanWork\lab1\Lab1_Project1\Lab1_source.cpp(384,54): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  Lab1_Project1.vcxproj -> E:\vmware\Sharefile\Labs-Web-Tech\WanwanWork\lab1\Lab1_Project1\Debug\Lab1_Project1.exe
